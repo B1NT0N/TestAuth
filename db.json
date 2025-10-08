@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id": 1,
       "sucesso": true,
       "objeto": {
         "id": 1,
@@ -43,6 +44,7 @@
       "mensagem": null
     },
     {
+      "id": 2,
       "sucesso": true,
       "objeto": {
         "id": 2,
@@ -71,6 +73,83 @@
         ]
       },
       "mensagem": null
+    },
+    {
+      "id": 3,
+      "sucesso": true,
+      "objeto": {
+        "id": 3,
+        "ad_id": "c343d9e5-d157-4b55-993a-49cfe1d39d74",
+        "email": "maria.santos@caixa.cv",
+        "telemovel": "+2389876543",
+        "telefone": ["+2389876543"],
+        "nome_proprio": "Maria",
+        "nome": "Maria Santos",
+        "apelido": "Santos",
+        "titulo": "Gestora",
+        "idioma": "pt",
+        "username": "maria.santos@caixa.cv",
+        "escritorio": "Direção Financeira",
+        "criado_em": "2023-03-20T14:20:00.000000Z",
+        "criado_por": "Admin",
+        "ativo": true,
+        "username_banca": "msantos",
+        "colaborador_id": 3,
+        "foto_colaborador": "user3.jpg",
+        "grupos": [
+          {
+            "id": 2,
+            "grupo": "Admin"
+          },
+          {
+            "id": 16,
+            "grupo": "kpi"
+          }
+        ]
+      },
+      "mensagem": null
     }
-  ]
+  ],
+  "profile": {
+    "sucesso": true,
+    "objeto": {
+      "id": 1,
+      "ad_id": "a143d9e5-d157-4b55-993a-49cfe1d39d72",
+      "email": "adalberto.mascarenhas@caixa.cv",
+      "telemovel": null,
+      "telefone": [],
+      "nome_proprio": "Adalberto",
+      "nome": "Adalberto Mascarenhas",
+      "apelido": "Mascarenhas",
+      "titulo": "Tecnico",
+      "idioma": null,
+      "username": "Adalberto.Mascarenhas@caixa.cv",
+      "escritorio": "Direção de Informatica, Comunicações e Segurança",
+      "criado_em": "2022-06-09T01:49:10.227878Z",
+      "criado_por": "System",
+      "ativo": true,
+      "username_banca": "",
+      "colaborador_id": 1,
+      "foto_colaborador": "58274f9e80d8488bbca7c5aa3bcd59ee.jpg",
+      "grupos": [
+        {
+          "id": 2,
+          "grupo": "Admin"
+        },
+        {
+          "id": 1,
+          "grupo": "Caixa"
+        },
+        {
+          "id": 6,
+          "grupo": "gaj"
+        },
+        {
+          "id": 16,
+          "grupo": "kpi"
+        }
+      ]
+    },
+    "mensagem": null
+  }
 }

@@ -6,22 +6,22 @@
       "objeto": {
         "id": 1,
         "ad_id": "a143d9e5-d157-4b55-993a-49cfe1d39d72",
-        "email": "adalberto.mascarenhas@caixa.cv",
+        "email": "user.tech001@company.cv",
         "telemovel": null,
         "telefone": [],
-        "nome_proprio": "Adalberto",
-        "nome": "Adalberto Mascarenhas",
-        "apelido": "Mascarenhas",
+        "nome_proprio": "Tech",
+        "nome": "Tech User One",
+        "apelido": "UserOne",
         "titulo": "Tecnico",
         "idioma": null,
-        "username": "Adalberto.Mascarenhas@caixa.cv",
-        "escritorio": "Direção de Informatica, Comunicações e Segurança",
+        "username": "tech.user001@company.cv",
+        "escritorio": "IT and Security Department",
         "criado_em": "2022-06-09T01:49:10.227878Z",
         "criado_por": "System",
         "ativo": true,
         "username_banca": "",
-        "colaborador_id": 1,
-        "foto_colaborador": "58274f9e80d8488bbca7c5aa3bcd59ee.jpg",
+        "colaborador_id": 1001,
+        "foto_colaborador": "default_avatar_001.jpg",
         "grupos": [
           {
             "id": 2,
@@ -29,15 +29,15 @@
           },
           {
             "id": 1,
-            "grupo": "Caixa"
+            "grupo": "Company"
           },
           {
             "id": 6,
-            "grupo": "gaj"
+            "grupo": "TechTeam"
           },
           {
             "id": 16,
-            "grupo": "kpi"
+            "grupo": "Analytics"
           }
         ]
       },
@@ -49,26 +49,26 @@
       "objeto": {
         "id": 2,
         "ad_id": "b243d9e5-d157-4b55-993a-49cfe1d39d73",
-        "email": "joao.silva@caixa.cv",
-        "telemovel": "+2381234567",
-        "telefone": ["+2381234567"],
-        "nome_proprio": "João",
-        "nome": "João Silva",
-        "apelido": "Silva",
+        "email": "analyst.user002@company.cv",
+        "telemovel": "+2385000001",
+        "telefone": ["+2385000001"],
+        "nome_proprio": "Analyst",
+        "nome": "Analyst User Two",
+        "apelido": "UserTwo",
         "titulo": "Analista",
         "idioma": "pt",
-        "username": "joao.silva@caixa.cv",
-        "escritorio": "Direção Comercial",
+        "username": "analyst.user002@company.cv",
+        "escritorio": "Commercial Department",
         "criado_em": "2023-01-15T10:30:00.000000Z",
         "criado_por": "Admin",
         "ativo": true,
-        "username_banca": "jsilva",
-        "colaborador_id": 2,
-        "foto_colaborador": "user2.jpg",
+        "username_banca": "analyst002",
+        "colaborador_id": 1002,
+        "foto_colaborador": "default_avatar_002.jpg",
         "grupos": [
           {
             "id": 1,
-            "grupo": "Caixa"
+            "grupo": "Company"
           }
         ]
       },
@@ -80,22 +80,22 @@
       "objeto": {
         "id": 3,
         "ad_id": "c343d9e5-d157-4b55-993a-49cfe1d39d74",
-        "email": "maria.santos@caixa.cv",
-        "telemovel": "+2389876543",
-        "telefone": ["+2389876543"],
-        "nome_proprio": "Maria",
-        "nome": "Maria Santos",
-        "apelido": "Santos",
+        "email": "manager.user003@company.cv",
+        "telemovel": "+2385000002",
+        "telefone": ["+2385000002"],
+        "nome_proprio": "Manager",
+        "nome": "Manager User Three",
+        "apelido": "UserThree",
         "titulo": "Gestora",
         "idioma": "pt",
-        "username": "maria.santos@caixa.cv",
-        "escritorio": "Direção Financeira",
+        "username": "manager.user003@company.cv",
+        "escritorio": "Financial Department",
         "criado_em": "2023-03-20T14:20:00.000000Z",
         "criado_por": "Admin",
         "ativo": true,
-        "username_banca": "msantos",
-        "colaborador_id": 3,
-        "foto_colaborador": "user3.jpg",
+        "username_banca": "manager003",
+        "colaborador_id": 1003,
+        "foto_colaborador": "default_avatar_003.jpg",
         "grupos": [
           {
             "id": 2,
@@ -103,7 +103,77 @@
           },
           {
             "id": 16,
-            "grupo": "kpi"
+            "grupo": "Analytics"
+          }
+        ]
+      },
+      "mensagem": null
+    },
+    {
+      "id": 4,
+      "sucesso": true,
+      "objeto": {
+        "id": 4,
+        "ad_id": "d443d9e5-d157-4b55-993a-49cfe1d39d75",
+        "email": "support.user004@company.cv",
+        "telemovel": "+2385000003",
+        "telefone": ["+2385000003"],
+        "nome_proprio": "Support",
+        "nome": "Support User Four",
+        "apelido": "UserFour",
+        "titulo": "Suporte",
+        "idioma": "en",
+        "username": "support.user004@company.cv",
+        "escritorio": "Customer Service",
+        "criado_em": "2023-05-10T09:15:00.000000Z",
+        "criado_por": "Admin",
+        "ativo": true,
+        "username_banca": "support004",
+        "colaborador_id": 1004,
+        "foto_colaborador": "default_avatar_004.jpg",
+        "grupos": [
+          {
+            "id": 3,
+            "grupo": "Support"
+          },
+          {
+            "id": 1,
+            "grupo": "Company"
+          }
+        ]
+      },
+      "mensagem": null
+    },
+    {
+      "id": 5,
+      "sucesso": true,
+      "objeto": {
+        "id": 5,
+        "ad_id": "e543d9e5-d157-4b55-993a-49cfe1d39d76",
+        "email": "dev.user005@company.cv",
+        "telemovel": "+2385000004",
+        "telefone": ["+2385000004"],
+        "nome_proprio": "Developer",
+        "nome": "Developer User Five",
+        "apelido": "UserFive",
+        "titulo": "Desenvolvedor",
+        "idioma": "en",
+        "username": "dev.user005@company.cv",
+        "escritorio": "Software Development",
+        "criado_em": "2023-07-22T11:45:00.000000Z",
+        "criado_por": "Admin",
+        "ativo": true,
+        "username_banca": "dev005",
+        "colaborador_id": 1005,
+        "foto_colaborador": "default_avatar_005.jpg",
+        "grupos": [
+          {
+            "id": 6,
+            "grupo": "TechTeam"
+          },
+          {
+            "id": 7,
+            "grupo": "Development"
           }
         ]
       },
@@ -115,22 +185,22 @@
     "objeto": {
       "id": 1,
       "ad_id": "a143d9e5-d157-4b55-993a-49cfe1d39d72",
-      "email": "adalberto.mascarenhas@caixa.cv",
+      "email": "user.tech001@company.cv",
       "telemovel": null,
       "telefone": [],
-      "nome_proprio": "Adalberto",
-      "nome": "Adalberto Mascarenhas",
-      "apelido": "Mascarenhas",
+      "nome_proprio": "Tech",
+      "nome": "Tech User One",
+      "apelido": "UserOne",
       "titulo": "Tecnico",
       "idioma": null,
-      "username": "Adalberto.Mascarenhas@caixa.cv",
-      "escritorio": "Direção de Informatica, Comunicações e Segurança",
+      "username": "tech.user001@company.cv",
+      "escritorio": "IT and Security Department",
       "criado_em": "2022-06-09T01:49:10.227878Z",
       "criado_por": "System",
       "ativo": true,
       "username_banca": "",
-      "colaborador_id": 1,
-      "foto_colaborador": "58274f9e80d8488bbca7c5aa3bcd59ee.jpg",
+      "colaborador_id": 1001,
+      "foto_colaborador": "default_avatar_001.jpg",
       "grupos": [
         {
           "id": 2,
@@ -138,15 +208,15 @@
         },
         {
           "id": 1,
-          "grupo": "Caixa"
+          "grupo": "Company"
         },
         {
           "id": 6,
-          "grupo": "gaj"
+          "grupo": "TechTeam"
         },
         {
           "id": 16,
-          "grupo": "kpi"
+          "grupo": "Analytics"
         }
       ]
     },

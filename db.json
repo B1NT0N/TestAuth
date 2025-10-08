@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "sucesso": true,
+      "objeto": {
+        "id": 1,
+        "ad_id": "a143d9e5-d157-4b55-993a-49cfe1d39d72",
+        "email": "adalberto.mascarenhas@caixa.cv",
+        "telemovel": null,
+        "telefone": [],
+        "nome_proprio": "Adalberto",
+        "nome": "Adalberto Mascarenhas",
+        "apelido": "Mascarenhas",
+        "titulo": "Tecnico",
+        "idioma": null,
+        "username": "Adalberto.Mascarenhas@caixa.cv",
+        "escritorio": "Direção de Informatica, Comunicações e Segurança",
+        "criado_em": "2022-06-09T01:49:10.227878Z",
+        "criado_por": "System",
+        "ativo": true,
+        "username_banca": "",
+        "colaborador_id": 1,
+        "foto_colaborador": "58274f9e80d8488bbca7c5aa3bcd59ee.jpg",
+        "grupos": [
+          {
+            "id": 2,
+            "grupo": "Admin"
+          },
+          {
+            "id": 1,
+            "grupo": "Caixa"
+          },
+          {
+            "id": 6,
+            "grupo": "gaj"
+          },
+          {
+            "id": 16,
+            "grupo": "kpi"
+          }
+        ]
+      },
+      "mensagem": null
+    },
+    {
+      "sucesso": true,
+      "objeto": {
+        "id": 2,
+        "ad_id": "b243d9e5-d157-4b55-993a-49cfe1d39d73",
+        "email": "joao.silva@caixa.cv",
+        "telemovel": "+2381234567",
+        "telefone": ["+2381234567"],
+        "nome_proprio": "João",
+        "nome": "João Silva",
+        "apelido": "Silva",
+        "titulo": "Analista",
+        "idioma": "pt",
+        "username": "joao.silva@caixa.cv",
+        "escritorio": "Direção Comercial",
+        "criado_em": "2023-01-15T10:30:00.000000Z",
+        "criado_por": "Admin",
+        "ativo": true,
+        "username_banca": "jsilva",
+        "colaborador_id": 2,
+        "foto_colaborador": "user2.jpg",
+        "grupos": [
+          {
+            "id": 1,
+            "grupo": "Caixa"
+          }
+        ]
+      },
+      "mensagem": null
+    }
+  ]
+}

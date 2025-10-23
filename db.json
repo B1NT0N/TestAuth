@@ -20,7 +20,7 @@
         "criado_por": "System",
         "ativo": true,
         "username_banca": "",
-        "colaborador_id": 1001,
+        "colaborador_id": 1,
         "foto_colaborador": "default_avatar_001.jpg",
         "grupos": [
           {
@@ -63,7 +63,7 @@
         "criado_por": "Admin",
         "ativo": true,
         "username_banca": "analyst002",
-        "colaborador_id": 1002,
+        "colaborador_id": 2,
         "foto_colaborador": "default_avatar_002.jpg",
         "grupos": [
           {
@@ -94,7 +94,7 @@
         "criado_por": "Admin",
         "ativo": true,
         "username_banca": "manager003",
-        "colaborador_id": 1003,
+        "colaborador_id": 3,
         "foto_colaborador": "default_avatar_003.jpg",
         "grupos": [
           {
@@ -129,7 +129,7 @@
         "criado_por": "Admin",
         "ativo": true,
         "username_banca": "support004",
-        "colaborador_id": 1004,
+        "colaborador_id": 4,
         "foto_colaborador": "default_avatar_004.jpg",
         "grupos": [
           {
@@ -164,7 +164,7 @@
         "criado_por": "Admin",
         "ativo": true,
         "username_banca": "dev005",
-        "colaborador_id": 1005,
+        "colaborador_id": 5,
         "foto_colaborador": "default_avatar_005.jpg",
         "grupos": [
           {
@@ -199,7 +199,7 @@
       "criado_por": "System",
       "ativo": true,
       "username_banca": "",
-      "colaborador_id": 1001,
+      "colaborador_id": 1,
       "foto_colaborador": "default_avatar_001.jpg",
       "grupos": [
         {
